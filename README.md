@@ -1,2 +1,2 @@
-# precisionpulsemd-app
+# Medical Appointment App 
 Medical Appointment App 
