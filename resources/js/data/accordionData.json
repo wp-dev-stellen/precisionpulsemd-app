@@ -1,0 +1,72 @@
+{
+  "default": [
+    {
+    "id": "one",
+    "title": "Stay Informed. Stay Empowered?",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "two",
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry?",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "three",
+      "title": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s?",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "four",
+      "title": "Lorem Ipsum is simply dummy text of the printing?",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ],
+
+
+  "faqColumnOne": [
+    {
+      "id": "one",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "two",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "three",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "four",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ],
+
+
+  "faqColumnTwo": [
+     {
+      "id": "one",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "two",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "three",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": "four",
+      "title": "Lorem Ipsum is simply dummy",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ]
+}

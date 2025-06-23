@@ -1,0 +1,4 @@
+.login-page{min-height: 100vh; padding-block: 20px;}
+.login-form { background: #0078B6; border-radius: 30px; padding: 40px; text-align: center; width: 100%;max-width: 480px; }
+.login-form input, .login-form textarea, .login-form select{ border-radius: 30px; margin-bottom: 10px; padding: 12px 15px; border: 0; }
+.login-page .text-sm { font-size: 14px; }
